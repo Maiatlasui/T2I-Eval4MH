@@ -65,7 +65,7 @@ This dataset is released under the **Creative Commons Attribution-NonCommercial-
 You may share and adapt the materials for non-commercial research with appropriate citation.  
 
 **Please cite:**  
-> He, Sui and Shenbin Qian. (2025). *Human-Centred Evaluation of Text-to-Image Generation Models for Self-expression of Mental Distress: A Dataset Based on GPT-4o*. *arXiv preprint*. 
+> [Author Names] (2025). *Human-Centred Evaluation of Text-to-Image Generation Models for Self-expression of Mental Distress: A Dataset Based on GPT-4o*. *arXiv preprint*. 
 
 ---
 
