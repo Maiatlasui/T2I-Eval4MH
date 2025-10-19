@@ -2,13 +2,13 @@
 
 ---
 
-## 🧠 Overview  
+## 🪐 Overview  
 This repository contains the dataset introduced in the paper:  
 
 > **Human-Centred Evaluation of Text-to-Image Generation Models for Self-expression of Mental Distress: A Dataset Based on GPT-4o**  
 > (Submitted to LREC 2026)
 
-The dataset explores how **AI-generated images** can enhance the **self-expression of mental distress** among international students. It contains **authentic textual descriptions**, **AI-generated images**, and **human evaluation scores** assessing their helpfulness in self-expression.  
+The dataset explores how **AI-generated images** can enhance the **self-expression of mental distress** among international students. It contains **authentic textual descriptions**, **AI-generated images**, and **human evaluation scores** assessing their helpfulness in facilitating their self-expression of mental distress.  
 
 This is the **first publicly available text-to-image dataset** with human evaluation scores in the **mental health domain**, offering a valuable multimodal benchmark for both language and vision researchers.
 
@@ -65,6 +65,16 @@ This dataset is released under the **Creative Commons Attribution-NonCommercial-
 You may share and adapt the materials for non-commercial research with appropriate citation.  
 
 **Please cite:**  
-> [Author Names]. (2025). *Human-Centred Evaluation of Text-to-Image Generation Models for Self-expression of Mental Distress: A Dataset Based on GPT-4o*. *arXiv preprint*. 
+> He, Sui and Shenbin Qian. (2025). *Human-Centred Evaluation of Text-to-Image Generation Models for Self-expression of Mental Distress: A Dataset Based on GPT-4o*. *arXiv preprint*. 
 
 ---
+
+## ⚠️ Please Note
+
+This dataset contains content related to mental health. Users should handle it responsibly and ethically with respect to the participants and the original research team.
+
+---
+
+## 💬 Contact
+
+For questions or issues regarding the dataset, please open an issue on this repository.
